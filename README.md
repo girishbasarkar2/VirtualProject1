@@ -1,2 +1,1 @@
-# VirtualProject1
-Press the up button
+# Virtual-pet-1
